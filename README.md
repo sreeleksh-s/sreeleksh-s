@@ -25,7 +25,7 @@ I'm always looking to learn, build, collaborate, and grow. 🚀
 
 📫 Connect With Me
 
-- 💼 LinkedIn: "Sreelekshmi S" (https://www.linkedin.com/in/sreelekshmi-s-0b03543a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 LinkedIn: "Sreelekshmi S" (https://www.linkedin.com/in/sreelekshmi-s-0b03543a6)
 - 💻 GitHub: You're already here! 😄
 
 ---
