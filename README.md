@@ -8,7 +8,7 @@ I'm passionate about programming, AI/ML, problem-solving, and exploring emerging
 
 🛠️ Tech Stack & Skills
 
-- Languages: C, C++, Python, R
+- Languages: C, C++
 - Core Interests: Artificial Intelligence                & Machine Learning
 - Currently Learning: Python, R, Data Structures & AI/ML concepts
 
