@@ -1,9 +1,10 @@
-Hi 👋, I'm Sreelekshmi S
-
-🌟 About Me
+ Hi there 👋, I'm Sreelekshmi S
+--------------------------------
 
 I'm an Integrated MSc Computer Science student at St. Thomas College, Ranny, specializing in Artificial Intelligence and Machine Learning.
+-------------------------------------------------------------------------------------------------------------------------------
 
+🌟 About Me
 I'm passionate about programming, AI/ML, problem-solving, and exploring emerging technologies. My journey in technology has helped me build a foundation in multiple programming languages, and I'm continuously working to strengthen my skills through learning, projects, and practical experience.
 
 🛠️ Tech Stack & Skills
