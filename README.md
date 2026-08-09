@@ -28,4 +28,3 @@ I'm always looking to learn, build, collaborate, and grow. 🚀
 
 ---
 
-«🌱 Learning continuously. Building consistently. Growing with technology.»
