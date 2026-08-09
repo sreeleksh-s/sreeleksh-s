@@ -1,4 +1,4 @@
-Hi there 👋, I'm Sreelekshmi S
+Hi there👋, I'm Sreelekshmi S
 --------------------------------
 
 I'm an Integrated MSc Computer Science student at St. Thomas College, Ranny, specializing in Artificial Intelligence and Machine Learning.
